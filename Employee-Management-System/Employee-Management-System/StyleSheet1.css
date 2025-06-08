@@ -1,0 +1,10 @@
+﻿.grid-autosize {
+    width: auto;
+    table-layout: auto;
+    border-collapse: collapse;
+}
+
+    .grid-autosize th, .grid-autosize td {
+        padding: 8px;
+        border: 1px solid #ccc;
+    }
